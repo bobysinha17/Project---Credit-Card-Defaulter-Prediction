@@ -1,4 +1,5 @@
 
+
 # Project Title : Credit Card Defaulter Prediction
 
 
@@ -31,10 +32,28 @@ Methodlogy
 reg_dt_model.score(X_train,train_labels) : 0.795714285714285
 
 reg_dt_model.score(X_test,test_labels) : 0.7633333333333333
+## Installation
+
+Install my-project with Jupyter Notebook 
+
+```bash
+  import numpy as np
+  import pandas as pd
+  import seaborn as sns
+  import matplotlib.pyplot as plt
+  from sklearn import tree
+  cd my-project
+```
+    
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/bobysinha17/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobysinha//)
 
+
+
+## Tech Stack
+
+**Technology used:** Python, HTML, CSS
 
 
 ## Authors
