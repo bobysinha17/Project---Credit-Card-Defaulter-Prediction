@@ -1,5 +1,3 @@
-# Project---Credit-Card-Defaulter-Prediction
-
 
 # Project Title : Credit Card Defaulter Prediction
 
