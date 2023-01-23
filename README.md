@@ -3,6 +3,8 @@
 # Project Title : Credit Card Defaulter Prediction
 
 
+Supervised Machine Learning Classification Problem
+
 A brief description about the project: In this credit card defaulter prediction project i have used supervised machine learning and to solve this problem i've used CART as a technique. 
 
 Problem Statement - Can we reliably able to predict who has is likely to default? If so, the bank may be able to prevent the loss by providing loan to other customers.
