@@ -24,7 +24,7 @@ Features:
 
 Methodlogy
 
-1. Exploratory Data Analysis
+1. Exploratory Data Analysis.
 2. Feature Engineering
 3. Model Selection 
 4. Hyperparameter Tuning
