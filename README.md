@@ -9,7 +9,7 @@ A brief description about the project: In this credit card defaulter prediction 
 
 Problem Statement - Can we reliably able to predict who has is likely to default? If so, the bank may be able to prevent the loss by providing loan to other customers.
 
-Data - German Credit Dataset
+Data - German Credit Dataset - https://tinyurl.com/3dvyajmv
 
 Target: Did the customer default? (Yes=1/Positive, No=0/Negative)
 
